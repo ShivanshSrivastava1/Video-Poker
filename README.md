@@ -8,6 +8,8 @@ Card.java - This is a template for a card in a standard deck. It includes all po
 
 Deck.java - This is a template for a 52 card deck. In addition to crreating the card objects for the deck, it also includes methods for dealing and shuffling.
 
+Game.java - This is a template for a game of poker. It contains several methods for checking the player's hand.
+
 Player.java - This is a template for a poker player. It includes methods for accessing the player's and and bankroll.
 
 PokerTest.java - This is the tester with teh main method.
