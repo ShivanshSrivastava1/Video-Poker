@@ -2,8 +2,7 @@
 /*****************************************
  * A template for a 52 card deck
  * 
- * @author Cannon
- * @editor Shivansh Srivastava (ss5945)
+ * @author Shivansh Srivastava (ss5945)
  * @date 4/13/2020
  
  ****************************************/ 
