@@ -2,8 +2,7 @@
 /*****************************************
  * A template for a game of poker
  * 
- * @author Cannon
- * @editor Shivansh Srivastava (ss5945)
+ * @author Shivansh Srivastava (ss5945)
  * @date 4/13/2020
  
  ****************************************/
