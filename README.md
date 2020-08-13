@@ -1,6 +1,10 @@
 # Video Poker
 
-This program simulates a typical game of poker using a 52 card deck. The player can bet between 1-5 tokens for each round. Their winnings will be determined by how good their hand is. In addition to playing with a randomly dealt hand, the player can also "cheat" by specifying their hand on the command line.
+This program simulates a typical game of poker using a 52 card deck. The player can bet between 1-5 tokens for each round. Their winnings will be determined by how good their hand is. In addition to playing with a randomly dealt hand, the player can also "cheat" by specifying their hand on the command line. For example, the user could input the following to guarantee a Royal Flush if they decline to change any cards:
+
+```bash
+java PokerTest s1 s13 s12 s11 s10
+```
 
 **Included Files**
 
