@@ -1,8 +1,12 @@
 
 public class PokerTest {
 
-    // this class must remain unchanged
-    // your code must work with this test class
+ /************************************************************
+ * Tester file for video poker.
+ * 
+ * @author Shivansh Srivastava (ss5945)
+ * @date 4/27/2020
+ ************************************************************/
  
     public static void main(String[] args){
         if (args.length<1){
