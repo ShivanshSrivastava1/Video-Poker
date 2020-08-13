@@ -12,4 +12,4 @@ Game.java - This is a template for a game of poker. It contains several methods 
 
 Player.java - This is a template for a poker player. It includes methods for accessing the player's and and bankroll.
 
-PokerTest.java - This is the tester with teh main method.
+PokerTest.java - This is the tester with the main method.
